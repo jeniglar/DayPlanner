@@ -1,4 +1,4 @@
-# DayPlanner
+# Day Planner
 <p align="center">
 <img width ="70%" src="dayplanner.png" alt="Work Day Scheduler">
 </>
