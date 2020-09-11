@@ -1,6 +1,9 @@
 $(document).ready(function () {
 
     var hours = ["9", "10", "11", "12", "13", "14", "15", "16", "17"];
+    var currentDate = moment().format('dddd[,] MMMM Do');
+    
+    $("#currentDay").append(currentDate);
 
     updatePage();
     hourColorblock();
